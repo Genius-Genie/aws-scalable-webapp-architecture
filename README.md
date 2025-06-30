@@ -55,8 +55,8 @@ The infrastructure was built using the following AWS services:
 
 📁 Files in This Repo
 
-- `Project_Report.pdf` – Detailed walkthrough of the project
-- `Presentation.pdf` – Visual summary with screenshots
+- `Phase1_architecture_guide` – Detailed walkthrough of the project with screenshots
+- `Phase1_project_report` – A summary of what the architecture guide entails
 - `README.md` – Project summary and key design highlights
 
 ---
